@@ -14,7 +14,7 @@ MINUTELYDIRECTORY="/mnt/syno/minecraft_backups/minutely"
 # Daily backups directory
 DAILYDIRECTORY="/mnt/syno/minecraft_backups/daily"
 # Number of minutely backups to keep
-KEEPMINUTELIES=48
+KEEPMINUTELIES=96
 # Number of daily backups to keep
 KEEPDAILIES=30
 
